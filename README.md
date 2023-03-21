@@ -38,7 +38,7 @@ You can adjust the number of buttons/prompts that can be saved by increasing the
 - Don't forget to add the button in your HTML too.  
 <br>
 
-#### <source of initial prompt>
+#### 〈source of initial prompt〉
 1. “ChatGPT4 Full-scale RPG “Chat Reincarnation ~ A childhood friend who should have died became a hero in another world” (trial version)” (Takayuki Fukatsu (@fladdict)) https://note.com/fladdict/ n/n2a82d26f10dc
 2. "Why don't you practice giving feedback to GPT?" (Shunsuke (@HaveShun)) https://twitter.com/HaveShun/status/1637957490695622656
 3. "I tried using GPT-4" (shi3z) https://note.com/shi3zblog/n/n659a427892ef (The author of the prompt itself is Shunsuke, the same as 2.)  
@@ -49,7 +49,7 @@ You can adjust the number of buttons/prompts that can be saved by increasing the
 1. [chrome拡張機能](chrome://extensions/)にアクセス、または 拡張機能マーク→「拡張機能を管理」
 2. 「パッケージ化されていない拡張機能を読み込む」
 3. 作成した「extensions」フォルダを選択
-4. 「拡張機能マーク」を押すと出てきた拡張機能一覧に追加されるので、選択すると今回の拡張機能が開けるようになります！  
+4. 「拡張機能マーク」を押すと出てきた拡張機能一覧に追加されるので、選択すると今回の拡張機能が開けるようになります！
 <br>
 
 ## 使い方
@@ -61,7 +61,7 @@ You can adjust the number of buttons/prompts that can be saved by increasing the
 2. フィードバック
 3. ゴールシーク（高精度な質問）
 
-を使用可能。  
+を使用可能。
 <br>
 
 ## プロンプトをカスタマイズ
@@ -80,7 +80,7 @@ btn4.addEventListener('click', async () => {
 });
 ```
 を増やすことで、ボタン・保存できるプロンプトの数を調整できます。
-- HTML内のボタンの追加も忘れないで下さい。  
+- HTML内のボタンの追加も忘れないで下さい。
 <br>
 
 #### 〈初期プロンプトの引用元〉
