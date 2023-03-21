@@ -81,4 +81,4 @@ btn4.addEventListener('click', async () => {
 #### 〈初期プロンプトの引用元〉
 1. 『ChatGPT4 本格RPG「チャット転生 〜 死んだはずの幼馴染が異世界で勇者になっていた件」（体験版）』（深津 貴之さん(@fladdict)）https://note.com/fladdict/n/n2a82d26f10dc
 2. 『GPTにフィードバックする練習したら？』（Shunsukeさん(@HaveShun)）https://twitter.com/HaveShun/status/1637957490695622656
-3. 『GPT-4使ってみた』（shi3z）https://note.com/shi3zblog/n/n659a427892ef（プロンプト自体の作成者は２と同じシュンスケさん）
+3. 『GPT-4使ってみた』（shi3z(@shi3z)）https://note.com/shi3zblog/n/n659a427892ef（プロンプト自体の作成者は２と同じシュンスケさん）
