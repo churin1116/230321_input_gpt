@@ -1,0 +1,95 @@
+<!DOCTYPE html>
+<html lang="ja">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>ChatGPT プロンプト自動入力</title>
+  <script src="popup.js" defer></script>
+  <style>
+    .flex-center {
+      display: flex;
+      justify-content: center;
+      align-items: center;
+    }
+    body {
+      font-family: 'Arial', sans-serif;
+      /* display: flex; */
+      justify-content: center;
+      align-items: center;
+      /* height: 100vh; */
+      width: 30rem;
+      /* background-color: #f2f2f2; */
+      color: rgb(84, 86, 87);
+    }
+    ul {
+      list-style: none;
+      padding: 0;
+    }
+    li {
+      margin-bottom: 1rem;
+    }
+    
+    .btn,
+    a.btn,
+    button.btn {
+      font-size: 1.2rem;
+      font-weight: 700;
+      line-height: 1.5;
+      position: relative;
+      display: inline-block;
+      cursor: pointer;
+      -webkit-user-select: none;
+      -moz-user-select: none;
+      -ms-user-select: none;
+      user-select: none;
+      -webkit-transition: all 0.3s;
+      transition: all 0.3s;
+      text-align: center;
+      vertical-align: middle;
+      text-decoration: none;
+      letter-spacing: 0.1em;
+      /* color: #212529; */
+      border: none;
+      border-radius: 0.5rem;
+
+      padding: 0.5rem 2rem;
+      margin-bottom: 0.5rem;
+    }
+
+    .btn-green {
+      font-size: 1.2rem;
+      position: relative;
+      color: #fff;
+      background: #32b16c;
+      -webkit-box-shadow: 0 5px 0 #2c9d60;
+      box-shadow: 0 5px 0 #2c9d60;
+    }
+
+    .btn-green:hover {
+      -webkit-transform: translate(0, 3px);
+      transform: translate(0, 3px);
+      color: #fff;
+      background: #30a967;
+      -webkit-box-shadow: 0 2px 0 #2c9d60;
+      box-shadow: 0 2px 0 #2c9d60;
+    }
+
+    .btn-green:hover:before {
+      left: 2rem;
+    }
+  </style>
+</head>
+<body>
+  <h2>プロンプトを自動入力</h2>
+  <ul>
+    <li><button id="btn1" class="btn btn-green">ゲームを開始</button></li>
+    <li><button id="btn2" class="btn btn-green">フィードバックを開始</button></li>
+    <li><button id="btn3" class="btn btn-green">ゴールシークを開始</button></li>
+  </ul>
+  <p>ワンタッチでChatGPTにプロンプトを追加できます。(最初の入力のみ対応)<br>回答が途中で途切れた場合、「続けて」などと入力してください。</p>
+  <p>※ゲームのプロンプトは深津貴之さん(@fladdict)、フィードバックとゴールシークはシュンスケさん(@HaveShun)の記事より引用させていただきました。</p>
+  <div class="flex-center" style="margin-top: 0.5rem;">
+    <small>©2023 Ryotaro Nakabayashi</small>
+  </div>
+</body>
+</html>
