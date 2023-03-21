@@ -5,7 +5,7 @@ There are explanations in English and 日本語.
 2. "Loading unpackaged extensions"
 3. Select the created "extensions" folder
 4. If you press the "extended function mark", it will be added to the extended function list that appears, so you can open this extended function by selecting it!
-<br>
+
 ## Usage
 Add prompts to ChatGPT with a single touch. (Only the first input is supported)
 If the answer is interrupted in the middle, please enter "Continue" etc.
