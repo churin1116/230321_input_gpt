@@ -41,7 +41,6 @@ You can adjust the number of buttons/prompts that can be saved by increasing the
 2. "Why don't you practice giving feedback to GPT?" (Shunsuke (@HaveShun)) https://twitter.com/HaveShun/status/1637957490695622656
 3. "I tried using GPT-4" (shi3z) https://note.com/shi3zblog/n/n659a427892ef (The author of the prompt itself is Shunsuke, the same as 2.)  
 <br>
-<br>
 
 ## 導入
 1. [chrome拡張機能](chrome://extensions/)にアクセス、または 拡張機能マーク→「拡張機能を管理」
