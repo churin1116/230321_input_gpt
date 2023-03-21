@@ -35,7 +35,6 @@ btn4.addEventListener('click', async () => {
 ```
 You can adjust the number of buttons/prompts that can be saved by increasing the .
 - Don't forget to add the button in your HTML too.  
-<br>
 
 #### 〈source of initial prompt〉
 1. “ChatGPT4 Full-scale RPG “Chat Reincarnation ~ A childhood friend who should have died became a hero in another world” (trial version)” (Takayuki Fukatsu (@fladdict)) https://note.com/fladdict/ n/n2a82d26f10dc
@@ -49,7 +48,6 @@ You can adjust the number of buttons/prompts that can be saved by increasing the
 2. 「パッケージ化されていない拡張機能を読み込む」
 3. 作成した「extensions」フォルダを選択
 4. 「拡張機能マーク」を押すと出てきた拡張機能一覧に追加されるので、選択すると今回の拡張機能が開けるようになります！
-<br>
 
 ## 使い方
 ワンタッチでChatGPTにプロンプトを追加できます。(最初の入力のみ対応)
@@ -80,7 +78,6 @@ btn4.addEventListener('click', async () => {
 ```
 を増やすことで、ボタン・保存できるプロンプトの数を調整できます。
 - HTML内のボタンの追加も忘れないで下さい。
-<br>
 
 #### 〈初期プロンプトの引用元〉
 1. 『ChatGPT4 本格RPG「チャット転生 〜 死んだはずの幼馴染が異世界で勇者になっていた件」（体験版）』（深津 貴之さん(@fladdict)）https://note.com/fladdict/n/n2a82d26f10dc
